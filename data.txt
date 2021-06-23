@@ -1,0 +1,8 @@
+{"converter":"feet to inch","val":"1","result":12}
+{"converter":"feet to inch","val":"1","result":12}
+{"converter":"feet to inch","val":"1","result":12}
+{"converter":"meters to centimeters","val":"1","result":100}
+{"converter":null,"val":"","result":""}
+{"converter":null,"Value":null,"Result":""}
+{"converter":"feet to inch","Value":null,"Result":0}
+{"converter":"feet to inch","Value":null,"Result":0}

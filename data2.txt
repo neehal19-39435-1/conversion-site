@@ -1,0 +1,4 @@
+{"rate":"feet to inch","value":"","result":"12"}
+{"rate":"feet to inch","value":"1","result":"12"}
+{"rate":"feet to inch","value":"1","result":"12"}
+{"rate":"feet to inch","value":"1","result":"12"}
